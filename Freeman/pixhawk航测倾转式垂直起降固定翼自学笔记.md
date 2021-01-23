@@ -22,7 +22,7 @@ Makeflyeasy
 ### 1 空机组装和注意事项
 &emsp;&emsp;我使用的是自由者2300进行装机，和自由者2100差不多，只是机翼长了20cm,机身和尾翼部分是一样的。
 #### 1.1机身尾翼部分
-&emsp;&emsp;机身装配可以参考”信仰者手抛固定翼”部分，注意合模前检查需要嵌入的配件是否装完。
+&emsp;&emsp;机身装配可以参考[信仰者手抛固定翼](https://doc.makeflyeasy.com/#/Believer/Pixhawk航测倾转式垂直起降固定翼装机‍教程)部分，注意合模前检查需要嵌入的配件是否装完。
 
 ![1.1.a.jpg](https://i.loli.net/2021/01/22/F2pJcfTrlQAI9iO.jpg)
 ![1.1.b.jpg](https://i.loli.net/2021/01/22/whKrCvYHbQJlipM.jpg)
