@@ -63,7 +63,7 @@
 [航测无人机PPK使用指南5—PPK天空与地面端数据融合解算](https://www.ixigua.com/6858550798398259726?logTag=FhVB-iKvSCvP-K6t2P0Dp)
 
 #### 文档—奋斗者4+1VTOL 奋斗者手抛
-[1.奋斗者Fighter空机装机教程]()
+[1.奋斗者Fighter空机装机教程](Fighter/奋斗者Fighter空机装机教程.md)  
 
 ‍
 [2.奋斗者Fighter用户手册](https://raw.githubusercontent.com/makeflyeasy/MFE_ArduPlane/main/Fighter/%E5%A5%8B%E6%96%97%E8%80%85%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C(User%20manual%20for%20Fighter%20)V1.0.pdf)
@@ -91,7 +91,7 @@
 
 #### 文档—信仰者Believer手抛伞降
 
-[1‍.Pixhawk航测倾转式垂直起降固定翼装机‍教程]()
+[1‍.Pixhawk航测倾转式垂直起降固定翼装机‍教程](Believer/Pixhawk航测倾转式垂直起降固定翼装机‍教程.md)
 
 [2.信仰者Believer快速组装流程图](https://github.com/makeflyeasy/MFE_ArduPlane/raw/main/Believer/%E4%BF%A1%E4%BB%B0%E8%80%85%E7%BB%84%E8%A3%85%E6%B5%81%E7%A8%8B%E5%9B%BE(Believer%20Assembly%20Flow%20Graph).pdf)
 
