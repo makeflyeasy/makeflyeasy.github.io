@@ -5,6 +5,6 @@
  
 * 技术支持
  * [官方文档](https://doc.makeflyeasy.com/#/)
- * [Github](https://github.com/makeflyeasy/MFE_ArduPlane)
+ * [GitHub](https://github.com/makeflyeasy/MFE_ArduPlane)
 
 * [官方QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=3MxlNuczR-gLf22xpoRmNt74QXvjf7U8&jump_from=webapi)
