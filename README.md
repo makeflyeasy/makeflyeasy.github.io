@@ -1,4 +1,3 @@
-## 飞行载机
 ### 奋斗者
 #### 视频—奋斗者航测无人机组装指南
 
@@ -99,7 +98,7 @@
 
 [4.信仰者Believer ‍Pixhawk飞控参数](https://github.com/makeflyeasy/MFE_ArduPlane/raw/main/Believer/Parameter/%E4%BF%A1%E4%BB%B0%E8%80%85Believer.rar)
 
-## 地面站软件
+### 地面站软件
 
 Mission Planner Vtol Survey V1.5下载链接
 
