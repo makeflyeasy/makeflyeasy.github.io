@@ -74,7 +74,7 @@
 ### 自由者
 
 #### 文档—自由者Freeman2+2倾转VTOL
-[1‍.Pixhawk航测倾转式垂直起降固定翼装机‍教程](Freeman/pixhawk航测倾转式垂直起降固定翼自学笔记.md)
+[1‍.自由者Pixhawk航测倾转式垂直起降固定翼装机‍教程](Freeman/pixhawk航测倾转式垂直起降固定翼自学笔记.md)
 
 [2.自由者Freeman2100用户手册](https://github.com/makeflyeasy/MFE_ArduPlane/raw/main/Freeman/%E8%87%AA%E7%94%B1%E8%80%852100%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C(User%20manual%20for%20freeman2100)V1.0.pdf)
 
@@ -90,7 +90,7 @@
 
 #### 文档—信仰者Believer手抛伞降
 
-[1‍.Pixhawk航测倾转式垂直起降固定翼装机‍教程](Believer/Pixhawk航测倾转式垂直起降固定翼装机‍教程.md)
+[1‍.信仰者Pixhawk航测固定翼自学笔记](Believer/Pixhawk航测固定翼自学笔记.md)
 
 [2.信仰者Believer快速组装流程图](https://github.com/makeflyeasy/MFE_ArduPlane/raw/main/Believer/%E4%BF%A1%E4%BB%B0%E8%80%85%E7%BB%84%E8%A3%85%E6%B5%81%E7%A8%8B%E5%9B%BE(Believer%20Assembly%20Flow%20Graph).pdf)
 
